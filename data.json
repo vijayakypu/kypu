@@ -3,5 +3,43 @@
     "name":"VIJJI",
     "lable":"Full-html developer",
     "email":"kvlakshmi@gmail.com"
-  }
-}
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.Tech (CSE)",
+      "institute":"PVP siddhartha",
+      "data":["2016-2020","89%"]
+    },
+    {
+      "degree":"Inter (MPC)",
+      "institute":"Gayatri",
+      "data":["2014-2016","95%"]
+    },
+    {
+      "degree":"SSC",
+      "institute":"Saraswathi",
+      "data":["2014","97%"]
+    }
+  ],
+      "skills":[
+        {
+          "title":"Languages",
+          "content":["C","Python","Java","C#","C++"]
+        },
+        {
+          "title":"DataBase",
+          "content":["Sql","Oracle"]
+        },
+        {
+          "title":"Web Technology",
+          "content":["Html","Php","JS","css"]
+        },
+        {
+          "title":"Frameworks",
+          "content":["Django","CodeIgniter"]
+        }
+      ]
+      }
